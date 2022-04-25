@@ -1,0 +1,9 @@
+@media (prefers-color-scheme:dark) {
+  :root {
+    --secondBg: #151437;
+    --secondTitle: #7177F1;
+    --secondColor: #323232;
+    --secondColorAlt: #FFFFFF;
+    --secondTextColor: #7177F1;
+  }
+}
